@@ -42,6 +42,20 @@ The following visualizations are created in this project to illustrate key insig
 - `data/`: Folder containing the Netflix dataset (ensure you have the correct dataset path if running locally).
 - `README.md`: Overview of the project and setup instructions.
 
+## Results Summary
+
+- **Content Distribution**: Netflix's content library comprises approximately **70% movies** (over **6,000 titles**) and **30% TV shows** (over **2,500 titles**), reflecting a strong focus on film content.
+
+- **Popular TV Shows**: The most popular TV show genre is **Kids**, with a frequency of over **200**, followed by **International Drama** at **120**, and **Crime** shows, while **Comedy** shows have a frequency of less than **100**.
+
+- **Popular Movies**: **International Drama movies** lead with over **350 titles**, closely followed by **Documentaries**, while **Comedies** have fewer than **200 titles** in Netflix's catalog.
+
+- **Yearly Trends**: There was a significant surge in movie releases from **1,200 to 1,450 titles** between **2018-2020**, largely driven by increased demand during the pandemic, with July identified as the peak month for new content.
+
+- **Country Contributions**: The top countries for Netflix content include the **United States** (3,240 titles) and **India** (1,057 titles), while the bottom contributors feature **Guatemala** and **Luxembourg**, each with just **1 title**.
+
+- **Top Directors**: The top director, **Rajiv Chilaka**, has **20 titles** on Netflix, followed by **Alastair Fothergill** and **Raúl Campos, Jan Suter**, each with **18**, illustrating a diverse range of directorial contributions to the platform.
+
 - ## Future Enhancements
 - Further analysis with Seaborn for more refined visualizations
 - Add additional datasets to compare Netflix with other streaming platforms
