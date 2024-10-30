@@ -43,15 +43,3 @@ The following visualizations are created in this project to illustrate key insig
 - `README.md`: Overview of the project and setup instructions.
 
 
-Future Enhancements
-Further analysis with Seaborn for more refined visualizations
-Add additional datasets to compare Netflix with other streaming platforms
-Incorporate machine learning models to predict popular genres or content based on historical data
-Contributions
-Contributions to improve this project are welcome! Feel free to fork the repository, make updates, and submit a pull request.
-
-License
-This project is open source and available under the MIT License.
-
-Acknowledgments
-Thanks to Kaggle for providing the Netflix dataset, and to the Python community for resources that facilitated this analysis.
